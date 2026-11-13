@@ -1,7 +1,7 @@
 # Experiment 02 – Time Series Analysis and Decomposition
 
-### Name: HANIEL REENA D R
-### Register No: 2305001008
+### Name: Nithya T
+### Register No: 2305001023
 
 ## Aim
 To perform time series analysis and decomposition on the monthly average temperature of a city
